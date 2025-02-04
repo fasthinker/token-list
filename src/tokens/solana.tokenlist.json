@@ -1,11 +1,11 @@
 {
-  "chainId": 101,         // 101 for mainnet-beta
+  "chainId": 101,         
   "address": "5pPc5PHJgx9hmSUSRTzo1z1fm9PhWkuPqdpUKh9j6dNv",  
-  "symbol": "STREETPAWS",      // desired symbol
+  "symbol": "STREETPAWS",     
   "name": "STREETPAWS",
   "decimals": 9,
   "logoURI": "https://turquoise-decent-boar-841.mypinata.cloud/files/bafkreic352smvdvx7msm7khnbjschkfuuebyadmsuarkq627rnlfpffkau?X-Algorithm=PINATA1&X-Date=1738660056&X-Expires=30&X-Method=GET&X-Signature=4d63ea1ab63b2c292a9c513256a6873db96b4de88dfba2c62507dd260b065cef",
-  "tags": ["utility-token"], // or whatever tags suit your project
+  "tags": ["utility-token"], 
   "extensions": {
     "website": "https://streetpaws.xyz",
     "twitter": "https://x.com/StreetpawsPaws",
